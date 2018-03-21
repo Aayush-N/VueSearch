@@ -1,0 +1,17 @@
+a{
+    font-family: Helvetica, sans-serif;
+    color: black;
+}
+body {
+    width: 40rem;
+    margin: 1rem auto;
+    font-family: Arial;
+}
+li {
+    margin-bottom: 0.5rem;
+}
+input {
+    padding: 1%;
+    font-size: 1rem;
+}
+ 
